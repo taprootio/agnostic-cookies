@@ -1,0 +1,28 @@
+{
+  "name": "@taprootio/agnostic-cookies",
+  "version": "1.0.0",
+  "description": "Tool to sign cookies",
+  "homepage": "https://github.com/taprootio/agnostic-cookies#readme",
+  "bugs": {
+    "url": "https://github.com/taprootio/agnostic-cookies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taprootio/agnostic-cookies.git"
+  },
+  "license": "MIT",
+  "author": "Jereme Evans",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "keygrip": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/keygrip": "^1.0.6",
+    "@types/node": "^22.10.10"
+  }
+}
