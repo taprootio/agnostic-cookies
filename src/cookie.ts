@@ -1,4 +1,4 @@
-import { SetOptions } from "./cookie-setter";
+import { SetOptions } from "./set-options";
 
 /**
  * RegExp to match field-content in RFC 7230 sec 3.2

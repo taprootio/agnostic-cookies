@@ -1,6 +1,6 @@
 {
   "name": "@taprootio/agnostic-cookies",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "Tool to sign cookies",
   "homepage": "https://github.com/taprootio/agnostic-cookies#readme",
   "bugs": {
